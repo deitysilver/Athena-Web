@@ -5,10 +5,10 @@ Athena-Web is the documentation website for the discord bot [Athena](https://git
 
 | `/basic` | description |
 | :--- | :--- |
-| `/basic su:m` | Finds the sum of 2 numbers. |
+| `/basic sum` | Finds the sum of 2 numbers. |
 | `/basic difference` | Finds the difference of 2 numbers. |
 | `/basic product` | Finds the Product of 2 numbers. |
-| `/basic product` | Finds the quotient of 2 numbers. |
+| `/basic quotient` | Finds the quotient of 2 numbers. |
 
 **Example:**
   
